@@ -1,0 +1,18 @@
+# Python
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# environment
+.env
+
+# ML models
+*.pkl
+
+# React
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
