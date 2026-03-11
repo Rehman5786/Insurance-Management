@@ -515,3 +515,6 @@ Gig workers form a critical component of India's digital economy, yet they remai
 This project proposes an **AI-driven parametric insurance system** that automatically compensates workers for income loss caused by extreme weather and environmental events.
 
 By combining **AI risk modeling, parametric triggers, automated claims, and weekly pricing**, the system aims to deliver a scalable and accessible financial safety net for gig workers.
+
+
+# Saniya Amrin
