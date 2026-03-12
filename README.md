@@ -516,5 +516,3 @@ This project proposes an **AI-driven parametric insurance system** that automati
 
 By combining **AI risk modeling, parametric triggers, automated claims, and weekly pricing**, the system aims to deliver a scalable and accessible financial safety net for gig workers.
 
-
-# Saniya Amrin
