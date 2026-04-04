@@ -1,7 +1,14 @@
 from fastapi import FastAPI
+from app.routes import user_routes
 
-app = FastAPI(title="AI Parametric Insurance Platform")
+app = FastAPI()
 
 @app.get("/")
-def root():
-    return {"message": "Insurance Management API Running"}
+def home():
+    return {"message": "AI Parametric Insurance API Running 🚀"}
+
+app.include_router(user_routes.router)
+
+from app.core.database import engine, Base
+
+Base.metadata.create_all(bind=engine)

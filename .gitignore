@@ -4,14 +4,16 @@ backend/venv/
 __pycache__/
 *.pyc
 
-# environment
+# Env
 .env
 
-# ML models
+# ML
 *.pkl
 
 # React
 node_modules/
+frontend/node_modules/
+dist/
 
 # OS
 .DS_Store
